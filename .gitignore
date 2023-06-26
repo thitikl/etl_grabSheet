@@ -1,0 +1,5 @@
+config/config.ini
+log/*
+!log/.gitkeep
+.idea
+venv
